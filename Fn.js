@@ -1,7 +1,7 @@
 'use strict';
 import Toast from 'react-native-root-toast';
 
-let topurl = 'http://192.168.0.111/myapp/rn_dongyi/';
+let topurl = 'http://192.168.0.110/myapp/rn_dongyi/';
 let publicUrl = topurl + 'index.php/';
 //let publicUrl = 'http://192.168.0.134/myapp/rn_dongyi/index.php/';
 
