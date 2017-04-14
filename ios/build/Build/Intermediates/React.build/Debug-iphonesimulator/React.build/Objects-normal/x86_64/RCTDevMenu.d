@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/MacBook/Reactnative/Demo8/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h
